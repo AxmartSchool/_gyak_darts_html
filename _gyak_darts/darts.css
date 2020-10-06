@@ -1,0 +1,35 @@
+body{
+    background-color: #E7d9B6;
+    color: #CC0000;
+    text-align: justify;
+    font-size: 115%;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+
+nav img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+hr{
+    border: 1px solid grey;
+}
+
+
+.dart{
+    width: 500px ;
+}
+.wrapper{
+    width: 1024px;
+    margin: 0 auto;
+}
+
